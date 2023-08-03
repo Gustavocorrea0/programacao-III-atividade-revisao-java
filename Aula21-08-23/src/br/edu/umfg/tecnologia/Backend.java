@@ -26,7 +26,7 @@ public class Backend {
         if (total >= 7.0){
             estadoDoAluno = "APROVADO";
         } else if (total < 7.0) {
-            estadoDoAluno = "REPROVADO";
+            estadoDoAluno = "EXAME";
         }
     }
 
